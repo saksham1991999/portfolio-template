@@ -124,3 +124,7 @@ If you want to test it locally or add some new features, run the below commands.
 bundle install
 bundle exec jekyll serve
 ```
+
+## Deploy on Netlify
+
+[![Deploy on Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/saksham1991999/portfolio-template)
